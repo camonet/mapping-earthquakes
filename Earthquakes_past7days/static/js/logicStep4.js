@@ -111,3 +111,4 @@ function getRadius(magnitude) {
 //satelliteStreets.addTo(map);
 
 // layer.bindPopup("<h3> Magnitude " + feature[0].properties.mag + "</h3> <hr> <h3> Where:" + features[0].properties.place + "</h3>");
+Footer
